@@ -6,14 +6,6 @@ Dieses Repository dokumentiert die "First-Principles"-Implementierung und Analys
 
 Das Projekt untersucht die Konvergenzeigenschaften von **Online-Learning** (Stochastischer Gradientenabstieg) versus **Batch-Learning** anhand synthetischer, logischer Datensätze (AND, OR, NOT) und erweitert den Untersuchungsraum auf erste Konzepte des Reinforcement Learning (Hexapawn).
 
-## Inhaltsverzeichnis
-
-1.  [Theoretischer Rahmen](https://www.google.com/search?q=%23theoretischer-rahmen)
-2.  [Methodik & Implementierung](https://www.google.com/search?q=%23methodik--implementierung)
-3.  [Ergebnisse & Visualisierung](https://www.google.com/search?q=%23ergebnisse--visualisierung)
-4.  [Ausblick: Reinforcement & Quantum ML](https://www.google.com/search?q=%23ausblick)
-5.  [Verwendung](https://www.google.com/search?q=%23verwendung)
-
 -----
 
 ## Theoretischer Rahmen
