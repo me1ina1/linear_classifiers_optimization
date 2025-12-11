@@ -75,9 +75,6 @@ Die Analyse zeigt, dass das klassische Perzeptron bei linear separierbaren Daten
 
 Das Notebook enthält eine initiale Implementierung eines Agenten für **Hexapawn**. Dies markiert den Übergang von Supervised Learning zu Reinforcement Learning, wobei der Agent eine Policy $\pi(s)$ lernt, um die erwartete kumulative Belohnung (Reward) zu maximieren.
 
-### Verbindung zu Quantum Machine Learning
-
-Die hier untersuchten linearen Klassifikatoren und Optimierungslandschaften bilden die theoretische Grundlage für **Variational Quantum Circuits (VQC)**. In zukünftigen Arbeiten soll untersucht werden, wie der klassische Gewichtsvektor $w$ durch Rotationswinkel $\theta$ in einem parametrisierten Quantenschaltkreis ersetzt werden kann, um den Hilbert-Raum für Klassifikationsaufgaben zu nutzen.
 
 -----
 
